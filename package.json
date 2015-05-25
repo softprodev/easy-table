@@ -13,7 +13,6 @@
     "mocha": "*",
     "should": "*"
   },
-  "license": "MIT",
   "scripts": {
     "test": "mocha"
   }
